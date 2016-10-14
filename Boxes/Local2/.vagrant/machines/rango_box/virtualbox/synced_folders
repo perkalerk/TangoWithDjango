@@ -1,1 +1,1 @@
-{"virtualbox":{"/home/vagrant/code":{"guestpath":"/home/vagrant/code","hostpath":"/Users/tegra/WebAppDevelopment/code","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tegra/WebAppDevelopment/Boxes/Local2","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/home/vagrant/code":{"guestpath":"/home/vagrant/code","hostpath":"/Users/tegra/TangoWithDjango/code","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tegra/TangoWithDjango/Boxes/Local2","disabled":false,"__vagrantfile":true}}}
