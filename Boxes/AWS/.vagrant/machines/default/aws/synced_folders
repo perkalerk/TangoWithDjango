@@ -1,0 +1,1 @@
+{"rsync":{"/site":{"guestpath":"/site","hostpath":"/Users/tegra/Django Development/source","disabled":false,"__vagrantfile":true,"owner":"ubuntu","group":"ubuntu"},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/tegra/Django Development/Boxes/AWS","disabled":false,"__vagrantfile":true,"owner":"ubuntu","group":"ubuntu"}}}
